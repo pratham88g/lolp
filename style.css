@@ -1,0 +1,21 @@
+body {
+    background-color: blue;
+}
+#avg {
+    text-align: center;
+    height: 600px;
+    width: 600px;
+}
+#ca {
+    text-align: center;
+}
+#im {
+    height: 300px;
+    width: 200px;
+}
+#th {
+    height: 300px;
+    width: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
